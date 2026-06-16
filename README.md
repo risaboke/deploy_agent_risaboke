@@ -30,4 +30,4 @@ attendance_tracker_{input}/
     └── reports.log
 ```
 ## Video Walkthrough
-[Click here to watch the project walkthrough](https://youtu.be/rlWtRS9OmRM)
+[Click here to watch the project walkthrough](https://youtu.be/wKdStKuN0o0)
